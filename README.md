@@ -14,7 +14,6 @@ The Python 3 environment provides the foundation for executing the code, while t
 
 By having these prerequisites in place, you can leverage the full potential of the application to manage and monitor your domains seamlessly through the terminal. This setup process is essential for ensuring that the software functions correctly and delivers accurate and timely domain information.
 
-first
 
 ```bash
   git clone https://github.com/erkankavas/python-domain-whois.git

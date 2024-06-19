@@ -27,7 +27,7 @@ next
   python3 main.py
 ```
 
-## Support & Advice
+## Support
 
 https://x.com/erkankavas
 
